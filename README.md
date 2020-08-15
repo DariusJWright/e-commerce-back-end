@@ -11,4 +11,5 @@ An API for an e-commerce website.
 ## Usage
 For fetching product data from a database with multiple ways to join that data.
 
-## Video
+
+https://drive.google.com/file/d/14tGFVpxEO2DGNDVN5OHEe2VrjZ4jSzGD/view
